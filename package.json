@@ -1,0 +1,16 @@
+{
+  "name": "api-concesionario",
+  "version": "1.0.0",
+  "description": "back-end del proyecto",
+  "main": "index.js",
+  "repository": "https://github.com/nairo-rojas/api-concesionario.git",
+  "author": "nairo-rojas <nairo.rojas@gmail.com>",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.13"
+  }
+}
